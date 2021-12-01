@@ -1,36 +1,52 @@
-My reading list for blockchain & cryptocurrency
+# xBlockchain
 
-# Cryptography
+My reading list on **blockchain** related topics.
+
+## Topics
+
++ [Cryptography](#cryptography)
++ [Wallet](#wallet)
++ [Tokens](#tokens)
++ [Transactions](#transactions)
++ [Consensus mechanisms](#consensus-mechanisms)
++ [Scalability](#scalability)
++ [Smart contract upgrades](#smart-contract-upgrades)
++ [Oracles](#oracles)
++ [Blockchain interoperability](#blockchain-interoperability)
++ [Defi](#defi)
+
+
+## Cryptography
 
 + [Cryptography behind top 20 cryptocurrencies](https://www.susanka.eu/coins-crypto/)
 + [Repo: Generating Ethereum accounts in Javascript](https://github.com/ConsenSys-Academy/ethereum-address-generator-js)
 + [Tool: Mnemonic Code Converter](https://iancoleman.io/bip39/)
 + [Interactive: Merkel Trees in Javascript (ConsenSys)](https://observablehq.com/@consensys-academy/merkle-trees)
 
-# Wallet
+## Wallet
 
 + [BIP32: Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 + [BIP39: Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 
-# Tokens
+## Tokens
 
 + [ERC-20: Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 + [ERC-721: Non-fungible token standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 + [ERC-1155: Multi Token Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
-# Transactions
+## Transactions
 
 + [What The Heck is UTXO](https://medium.com/bitbees/what-the-heck-is-utxo-ca68f2651819)
 
-# Consensus mechanisms
+## Consensus mechanisms
 
-## Consensus mechanisms for traditional distributed system
+#### Consensus mechanisms for traditional distributed system
 
 + [Article: Let’s take a crack at understanding distributed consensus](https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus)
 + [Paper: Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 + [Interactive: Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 
-## Consensus mechanisms for blockchain
+#### Consensus mechanisms for blockchain
 
 + [Wiki: Consensus Mechanisms (Ethereum.org)](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
 + [Article: What is Nakamoto Consensus? Complete Beginner’s Guide](https://blockonomi.com/nakamoto-consensus/)
@@ -38,37 +54,31 @@ My reading list for blockchain & cryptocurrency
 + [Paper: Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
 + [Article: Casper FFG: Consensus Protocol for the Realization of Proof-of-Stake](https://medium.com/unitychain/intro-to-casper-ffg-9ed944d98b2d)
 
-# Scalability
+## Scalability
 
 + [Article: Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html)
 + [Article: An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 
-# Smart contract upgrades
+## Smart contract upgrades
 
 + [Article: Upgrading smart contracts](https://docs.openzeppelin.com/learn/upgrading-smart-contracts)
 + [Article: The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
-+ [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy#transparent-vs-uups)
++ [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy##transparent-vs-uups)
 + [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
 
 
-# Oracles
+## Oracles
 
 + [Article: What Is Chainlink in 5 Minutes](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work)
 
-# Code illustration for building a demo blockchain
-
-+ [Js version: Building a blockchain](https://observablehq.com/@consensys-academy/building-a-blockchain)
-+ [Python version: A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
-+ [Go version: Code your own blockchain in less than 200 lines of Go!](https://karpathy.github.io/2021/06/21/blockchain/)
-
-# Blockchain interoperability
+## Blockchain interoperability
 
 + [Article: Blockchain Interoperability : Why Is Cross Chain Technology Important?](https://101blockchains.com/blockchain-interoperability/)
 + [Article: Understanding Cross-Chain Communication – Examining Blockchain Interoperability and Why It Matters](https://academy.moralis.io/blog/understanding-cross-chain-communication-examining-blockchain-interoperability-and-why-it-matters)
 + [Article: Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 + [Wiki: Bridges](https://wiki.polkadot.network/docs/learn-bridges)
 
-# Defi
+## Defi
 
 + [Article: Defi 101 - concepts you need to understand before using a Defi protocol](https://forum.openzeppelin.com/t/defi-101-concepts-you-need-to-understand-before-using-a-defi-protocol/2577)
 + [Book: How to Defi](https://landing.coingecko.com/how-to-defi/)
