@@ -22,6 +22,7 @@ My reading list on **blockchain** related topics.
 + [Repo: Generating Ethereum accounts in Javascript](https://github.com/ConsenSys-Academy/ethereum-address-generator-js)
 + [Tool: Mnemonic Code Converter](https://iancoleman.io/bip39/)
 + [Interactive: Merkel Trees in Javascript (ConsenSys)](https://observablehq.com/@consensys-academy/merkle-trees)
++ [Tool: ECDSA sample](https://kjur.github.io/jsrsasign/sample/sample-ecdsa.html)
 
 ## Wallet
 
