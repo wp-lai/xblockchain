@@ -13,6 +13,7 @@ My reading list on **blockchain** related topics.
 + [Smart contract upgrades](#smart-contract-upgrades)
 + [Oracles](#oracles)
 + [Blockchain interoperability](#blockchain-interoperability)
++ [Trilemma](#trilemma)
 + [Defi](#defi)
 
 
@@ -78,6 +79,9 @@ My reading list on **blockchain** related topics.
 + [Article: Understanding Cross-Chain Communication – Examining Blockchain Interoperability and Why It Matters](https://academy.moralis.io/blog/understanding-cross-chain-communication-examining-blockchain-interoperability-and-why-it-matters)
 + [Article: Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 + [Wiki: Bridges](https://wiki.polkadot.network/docs/learn-bridges)
+
+## Trilemma
++ [Article: Blockchain's biggest technical challenge](https://blog.mcgee.cat/blockchains-biggest-technical-challenge-the-trilemma)
 
 ## Defi
 
