@@ -71,6 +71,7 @@ My reading list on **blockchain** related topics.
 
 ## Oracles
 
++ [Wiki: Oracles](https://ethereum.org/en/developers/docs/oracles/)
 + [Article: What Is Chainlink in 5 Minutes](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work)
 
 ## Blockchain interoperability
