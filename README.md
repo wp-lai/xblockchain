@@ -86,6 +86,7 @@ My reading list on **blockchain** related topics.
 
 ## Defi
 
++ [Course: UC Berkeley CS294-177/CS194-177 Special Topics on Decentralized Finance](https://berkeley-defi.github.io/f21)
 + [Article: Defi 101 - concepts you need to understand before using a Defi protocol](https://forum.openzeppelin.com/t/defi-101-concepts-you-need-to-understand-before-using-a-defi-protocol/2577)
 + [Book: How to Defi](https://landing.coingecko.com/how-to-defi/)
 + [GitHub: DeFi Studies](https://github.com/baraldor/defi/blob/main/README.md)
