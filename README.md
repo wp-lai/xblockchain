@@ -15,6 +15,7 @@ My reading list on **blockchain** related topics.
 + [Blockchain interoperability](#blockchain-interoperability)
 + [Trilemma](#trilemma)
 + [Defi](#defi)
++ [Web3](#web3)
 
 
 ## Cryptography
@@ -102,3 +103,6 @@ My reading list on **blockchain** related topics.
 
 + [Tool: check out your Impermanent Loss](https://il.wtf/)
 
+## Web3
+
++ [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
