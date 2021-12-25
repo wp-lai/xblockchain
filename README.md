@@ -11,6 +11,7 @@ My reading list on **blockchain** related topics.
 + [Consensus mechanisms](#consensus-mechanisms)
 + [Scalability](#scalability)
 + [Smart contract upgrades](#smart-contract-upgrades)
++ [EVM](#evm)
 + [Oracles](#oracles)
 + [Blockchain interoperability](#blockchain-interoperability)
 + [Trilemma](#trilemma)
@@ -68,6 +69,10 @@ My reading list on **blockchain** related topics.
 + [Article: The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
 + [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy##transparent-vs-uups)
 + [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
+
+## EVM
+
++ [Tool: An interactive reference to Ethereum Virtual Machine Opcodes](https://www.evm.codes)
 
 
 ## Oracles
