@@ -17,6 +17,7 @@ My reading list on **blockchain** related topics.
 + [Trilemma](#trilemma)
 + [Defi](#defi)
 + [Web3](#web3)
++ [Miscellaneous](#miscellaneous)
 
 
 ## Cryptography
@@ -111,3 +112,6 @@ My reading list on **blockchain** related topics.
 ## Web3
 
 + [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
+
+## Miscellaneous
++ [testnet faucet](https://faucet.paradigm.xyz/)
