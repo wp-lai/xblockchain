@@ -4,21 +4,24 @@ My reading list on **blockchain** related topics.
 
 ## Topics
 
-+ [Cryptography](#cryptography)
-+ [Wallet](#wallet)
-+ [Tokens](#tokens)
-+ [Transactions](#transactions)
-+ [Consensus mechanisms](#consensus-mechanisms)
-+ [Scalability](#scalability)
-+ [Smart contract upgrades](#smart-contract-upgrades)
-+ [EVM](#evm)
-+ [Oracles](#oracles)
-+ [Blockchain interoperability](#blockchain-interoperability)
-+ [Trilemma](#trilemma)
-+ [Defi](#defi)
-+ [Web3](#web3)
-+ [Miscellaneous](#miscellaneous)
-
++ Concepts
+    + [Cryptography](#cryptography)
+    + [Wallet](#wallet)
+    + [Tokens](#tokens)
+    + [Transactions](#transactions)
+    + [Consensus mechanisms](#consensus-mechanisms)
+    + [Scalability](#scalability)
+    + [Oracles](#oracles)
+    + [Blockchain interoperability](#blockchain-interoperability)
+    + [Trilemma](#trilemma)
++ Dev
+    + [EVM](#evm)
+    + [JSON-RPC](#json-rpc)
+    + [Faucet](#faucet)
+    + [Smart contract upgrades](#smart-contract-upgrades)
++ Applications
+    + [Defi](#defi)
+    + [Web3](#web3)
 
 ## Cryptography
 
@@ -64,18 +67,6 @@ My reading list on **blockchain** related topics.
 + [Article: Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html)
 + [Article: An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 
-## Smart contract upgrades
-
-+ [Article: Upgrading smart contracts](https://docs.openzeppelin.com/learn/upgrading-smart-contracts)
-+ [Article: The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
-+ [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy##transparent-vs-uups)
-+ [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
-
-## EVM
-
-+ [Tool: An interactive reference to Ethereum Virtual Machine Opcodes](https://www.evm.codes)
-
-
 ## Oracles
 
 + [Wiki: Oracles](https://ethereum.org/en/developers/docs/oracles/)
@@ -90,6 +81,23 @@ My reading list on **blockchain** related topics.
 
 ## Trilemma
 + [Article: Blockchain's biggest technical challenge](https://blog.mcgee.cat/blockchains-biggest-technical-challenge-the-trilemma)
+
+## EVM
+
++ [Tool: An interactive reference to Ethereum Virtual Machine Opcodes](https://www.evm.codes)
+
+## JSON-RPC
++ [Ethereum JSON-RPC playground](https://playground.open-rpc.org/)
+
+## Faucet
++ [testnet faucet](https://faucet.paradigm.xyz/)
+
+## Smart contract upgrades
+
++ [Article: Upgrading smart contracts](https://docs.openzeppelin.com/learn/upgrading-smart-contracts)
++ [Article: The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
++ [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy##transparent-vs-uups)
++ [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
 
 ## Defi
 
@@ -113,5 +121,3 @@ My reading list on **blockchain** related topics.
 
 + [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 
-## Miscellaneous
-+ [testnet faucet](https://faucet.paradigm.xyz/)
