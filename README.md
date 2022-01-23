@@ -10,6 +10,7 @@ My reading list on **blockchain** related topics.
     + [Tokens](#tokens)
     + [Transactions](#transactions)
     + [Consensus mechanisms](#consensus-mechanisms)
+    + [Zero-knowledge proof](#zero-knowledge-proof)
     + [Scalability](#scalability)
     + [Oracles](#oracles)
     + [Blockchain interoperability](#blockchain-interoperability)
@@ -61,6 +62,10 @@ My reading list on **blockchain** related topics.
 + [Article: What is Proof of Stake (ConsenSys)](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/)
 + [Paper: Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
 + [Article: Casper FFG: Consensus Protocol for the Realization of Proof-of-Stake](https://medium.com/unitychain/intro-to-casper-ffg-9ed944d98b2d)
+
+## Zero-knowledge proof
+
++ [Video: Explains zere-knowledge proof in 5 levels of difficulty](https://www.youtube.com/watch?v=fOGdb1CTu5c)
 
 ## Scalability
 
