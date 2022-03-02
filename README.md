@@ -93,6 +93,7 @@ My reading list on **blockchain** related topics.
 
 ## JSON-RPC
 + [Ethereum JSON-RPC playground](https://playground.open-rpc.org/)
++ [Articel: Use Multicall to Save Tons of API Requests to Your Blockchain Node](https://betterprogramming.pub/use-multicall-to-save-tons-of-api-requests-to-your-blockchain-node-f759d09a8ef5)
 
 ## Faucet
 + [testnet faucet](https://faucet.paradigm.xyz/)
