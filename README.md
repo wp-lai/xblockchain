@@ -90,6 +90,7 @@ My reading list on **blockchain** related topics.
 ## EVM
 
 + [Tool: An interactive reference to Ethereum Virtual Machine Opcodes](https://www.evm.codes)
++ [Articles: EVM Deep Dives](https://noxx.substack.com/)
 
 ## JSON-RPC
 + [Tool: Ethereum JSON-RPC playground](https://playground.open-rpc.org/)
