@@ -19,7 +19,9 @@ My reading list on **blockchain** related topics.
     + [EVM](#evm)
     + [JSON-RPC](#json-rpc)
     + [Faucet](#faucet)
+    + [Smart contract security](#smart-contract-security)
     + [Smart contract upgrades](#smart-contract-upgrades)
+    + [Best practices](#best-practices)
 + Applications
     + [Defi](#defi)
     + [Web3](#web3)
@@ -93,12 +95,18 @@ My reading list on **blockchain** related topics.
 + [Articles: EVM Deep Dives](https://noxx.substack.com/)
 
 ## JSON-RPC
+
 + [Tool: Ethereum JSON-RPC playground](https://playground.open-rpc.org/)
 + [Articel: Use Multicall to Save Tons of API Requests to Your Blockchain Node](https://betterprogramming.pub/use-multicall-to-save-tons-of-api-requests-to-your-blockchain-node-f759d09a8ef5)
 + [Tool: Decode ETH ABI Binary Data into Readable Values](https://www.moesif.com/solidity-abi-hex-decoder/decode)
 
 ## Faucet
+
 + [Tool: testnet faucet](https://faucet.paradigm.xyz/)
+
+## Smart contract security
+
++ [Article: Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)
 
 ## Smart contract upgrades
 
@@ -106,6 +114,10 @@ My reading list on **blockchain** related topics.
 + [Article: The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
 + [Article: Transparent vs UUPS Proxies](https://docs.openzeppelin.com/contracts/4.x/api/proxy##transparent-vs-uups)
 + [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
+
+## Best practices
+
++ [Articles: Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
 
 ## Defi
 
