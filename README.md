@@ -22,6 +22,7 @@ My reading list on **blockchain** related topics.
     + [Smart contract security](#smart-contract-security)
     + [Smart contract upgrades](#smart-contract-upgrades)
     + [Best practices](#best-practices)
+    + [Data](#data)
 + Applications
     + [Defi](#defi)
     + [Web3](#web3)
@@ -118,6 +119,10 @@ My reading list on **blockchain** related topics.
 ## Best practices
 
 + [Articles: Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+
+## Data
+
++ [Course: Querying with Open APIs Course](https://www.youtube.com/watch?v=cQx6ig3mp1U)
 
 ## Defi
 
